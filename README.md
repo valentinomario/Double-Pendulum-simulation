@@ -4,4 +4,4 @@ In this project, I am simulating a system consisting of multiple double pendulum
 Run *“DoublePendulum.m”* to start the simulation.
 
 ## Youtube example
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GFINJSI_ej8/0.jpg)](https://www.youtube.com/watch?v=GFINJSI_ej8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/suAD4Pm8Fs4/0.jpg)](https://www.youtube.com/watch?v=suAD4Pm8Fs4)
